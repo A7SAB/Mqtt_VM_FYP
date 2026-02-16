@@ -1,5 +1,5 @@
 # ESP32 Basic VM Over MQTT
-This project is used to send basic instructions over MQTT.
+This project is used to send basic instructions over MQTT. Its main purpose is to be used in educational enviroments to teach students basic programming skills. Its used to run with the web app found in https://github.com/A7SAB/Blockly_Proj_fyp. 
 
 ## Project Structure 
 - **include/** – Additional project-level headers.  
@@ -24,7 +24,4 @@ constexpr int         MQTT_PORT       = 1883;
 constexpr const char* MQTT_CLIENT_ID  = "robot_1"; 
 ```
 
-
-## Notes
-In order to test this Firmware use the web app that's  built for it which is available at https://github.com/A7SAB/Blockly_Proj_fyp. 
 
