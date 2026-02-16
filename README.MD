@@ -1,5 +1,5 @@
 # ESP32 Basic VM Over MQTT
-This project is used to send basic instructions over MQTT. Its main purpose is to be used in educational enviroments to teach students basic programming skills. Its used to run with the web app found in https://github.com/A7SAB/Blockly_Proj_fyp. 
+This project is used to send basic instructions over MQTT from a basic ESP32 based robot. Its main purpose is to be used in educational enviroments to teach students basic programming skills. Its used to run with the web app found in https://github.com/A7SAB/Blockly_Proj_fyp. 
 
 ## Project Structure 
 - **include/** – Additional project-level headers.  
